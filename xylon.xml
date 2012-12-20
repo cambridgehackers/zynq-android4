@@ -302,8 +302,8 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="platform/system/vold" />
+  <project path="system/core" name="platform/system/core" />
 
-  <project path="system/core" name="platform_system_core" remote="cambridgehackers" revision="jb" />
   <!-- Add zedboard -->
   <remote name="cambridgehackers" fetch="https://github.com/cambridgehackers"/>
 
